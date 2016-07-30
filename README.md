@@ -1,2 +1,2 @@
-# http
-A simple http server
+# myhttp
+A simple http server in go
